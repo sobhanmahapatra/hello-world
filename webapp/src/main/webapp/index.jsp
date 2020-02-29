@@ -1,3 +1,1 @@
-<h1> Hello, World deployment using Ansible to tomcat server !!! </h1>
-
-
+<h1> Hello, World !!! </h1>
